@@ -6,7 +6,7 @@
 This repository contains the implementations discussed in the paper:
 
 ### CRAQ-KV
-A strongly consistent key-value store implementing the CRAQ (Chain Replication with Apportioned Queries) protocol.
+A strongly consistent key-value store implementing the CRAQ (Chain Replication) protocol.
 
 **→ [CRAQ-KV Implementation](CRAQ-KV/)**
 
