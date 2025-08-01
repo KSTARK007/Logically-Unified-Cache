@@ -1,12 +1,16 @@
 [submodule "TWIG-KV"]
 	path = TWIG-KV
 	url = https://github.com/KSTARK007/TWIG-KV.git
+	branch = main
 [submodule "CRAQ-KV"]
 	path = CRAQ-KV
 	url = https://github.com/KSTARK007/CRAQ-KV.git
+	branch = main
 [submodule "LUC-Sim"]
 	path = LUC-Sim
 	url = https://github.com/KSTARK007/LUC-SIM.git
+	branch = main
 [submodule "LUC-RethinkDB"]
 	path = LUC-RethinkDB
 	url = https://github.com/KSTARK007/LUC-RethinkDB.git
+	branch = main
